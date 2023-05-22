@@ -3,8 +3,10 @@ Using the dataset of employees working under the HR , I have created HR Dashboar
 
 Data Used
 Data- HR Data over 1470 rows 
-Data Cleaning & Analysis - Power BI
-Data Visualization - Power BI
+
+Data Cleaning & Analysis - Micrsoft Power BI
+
+Data Visualization - Microsoft Power BI
 
   Questions:
 1.	How many employees are in the organization?
