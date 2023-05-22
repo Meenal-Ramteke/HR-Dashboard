@@ -1,6 +1,10 @@
 # HR-Dashboard
 Using the dataset of employees working under the HR , I have created HR Dashboard to help them operate and analyze their employees and their work.
 
+![HR](https://github.com/Meenal-Ramteke/HR-Dashboard/assets/123671252/c959c171-4bfa-4542-81c4-d738fe40ed28)
+
+
+
 Data Used
 Data- HR Data over 1470 rows 
 
