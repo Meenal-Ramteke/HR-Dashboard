@@ -1,29 +1,42 @@
 # HR-Dashboard
 
-## Project Overview
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [Objective/ Problem Statement](#objective-problem-statement)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning/ Preparation](#data-cleaning-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis-eda)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Limitations](#limitations)
+- [References](#references)
+
+### Project Overview
 
 The HR Employee Dashboard project aims to provide a comprehensive and visually intuitive tool for HR professionals and decision-makers to gain insights into various aspects of the organization's workforce. By aggregating and analyzing HR data, the dashboard seeks to offer valuable insights into employee demographics, performance metrics, job satisfaction, and other key indicators crucial for effective human resource management.
 
-## Objective/ Problem Statement
+### Objective/ Problem Statement
 
 The HR Dashboard aims to provide insights into various aspects of employee data to facilitate decision-making and strategic planning within the organization. By analyzing key metrics related to employee demographics, promotions, job satisfaction, performance, and work-life balance, the dashboard seeks to identify areas of improvement and areas of strength within the organization's workforce.
 
-## Data Sources
+### Data Sources
 
 The data used for this analysis comprises HR data with over 1470 rows, containing information on employee attributes such as gender, tenure, job level, job involvement, marital status, distance from work, promotion eligibility, department, educational level, job satisfaction, performance, and work-life balance.
 
-## Tools Used
+### Tools Used
 
 Data Cleaning & Analysis: Microsoft Power BI
 Data Visualization: Microsoft Power BI
 
-## Data Cleaning/Preparation
+### Data Cleaning/ Preparation
 
 Data cleaning and analysis were performed using Microsoft Power BI.
 The dataset was cleaned to ensure consistency and accuracy in the analysis.
 Missing values were addressed, and data integrity was maintained throughout the process.
 
-## Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 EDA was conducted to explore the dataset and answer various questions posed by stakeholders:
 
@@ -42,13 +55,13 @@ EDA was conducted to explore the dataset and answer various questions posed by s
 13. Analyzed job satisfaction levels and performance ratings.
 14. Investigated employees' satisfaction with the organizational environment and work-life balance.
 
-## Data Analysis
+### Data Analysis
 
 Data analysis was performed to derive meaningful insights and summarize findings based on the EDA.
 
 ![HR](https://github.com/Meenal-Ramteke/HR-Dashboard/assets/123671252/c959c171-4bfa-4542-81c4-d738fe40ed28)
 
-## Results
+### Results
 
 Based on the analysis, the following key insights were obtained:
 
@@ -64,7 +77,7 @@ Based on the analysis, the following key insights were obtained:
 10. Performance ratings indicate that a large number of employees are performing excellently.
 11. Some employees face challenges with work-life balance.
     
-## Recommendations
+### Recommendations
 
 Based on the findings, the following recommendations can be made:
 
@@ -73,13 +86,13 @@ Based on the findings, the following recommendations can be made:
 - Continuously monitor and address factors contributing to employee retrenchment.
 - Recognize and reward outstanding performance to maintain motivation and engagement within the workforce.
   
-## Limitations
+### Limitations
 
 - The analysis is based on the available dataset and may not capture all nuances of employee behavior and organizational dynamics.
 - Data accuracy and completeness may impact the reliability of the findings.
 - External factors influencing employee behavior and organizational performance were not considered in this analysis.
 
-## References
+### References
 - No external references are required as the analysis is based on internal HR data.
 
 
